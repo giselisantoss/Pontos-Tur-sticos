@@ -1,0 +1,52 @@
+img
+{width: 395px;}
+
+
+h1
+{border-color:rgb(32, 51, 2);
+border-width: 10px;
+border-style: double;
+}
+
+.bom.jesus{
+border-color: black;
+border-width: 10px;
+border-style: double;}
+
+.Marco.Zero{
+border-color: black;
+border-width: 10px;
+border-style: double;}
+
+body{
+    background: linear-gradient(rgba(2, 63, 55, 0.5), rgb(246, 248, 248));
+}
+
+header .container{
+    margin-right:0px;
+    margin-left: 1000px;
+    margin-top: 45px;
+}
+
+header nav a{
+    text-decoration:none;
+    color: rgb(0, 0, 0);
+    margin-right:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    margin-right:0px;
+    margin-left: 0px;
+    margin-top: -300px;
+    text-align: justify;
+}
+
+.boneca{
+    margin-right:0px;
+    margin-left: 600px;
+    margin-top: 45px;
+    border-color: black;
+    border-width: 10px;
+    border-style: double;
+}
